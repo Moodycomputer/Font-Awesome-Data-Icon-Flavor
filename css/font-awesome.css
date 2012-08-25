@@ -1,26 +1,26 @@
-/*  Font Awesome
-    the iconic font designed for use with Twitter Bootstrap
-    -------------------------------------------------------
-    The full suite of pictographic icons, examples, and documentation
-    can be found at: http://fortawesome.github.com/Font-Awesome/
-
-    License
-    -------------------------------------------------------
-    The Font Awesome webfont, CSS, and LESS files are licensed under CC BY 3.0:
-    http://creativecommons.org/licenses/by/3.0/ A mention of
-    'Font Awesome - http://fortawesome.github.com/Font-Awesome' in human-readable
-    source code is considered acceptable attribution (most common on the web).
-    If human readable source code is not available to the end user, a mention in
-    an 'About' or 'Credits' screen is considered acceptable (most common in desktop
-    or mobile software).
-
-    Contact
-    -------------------------------------------------------
-    Email: dave@davegandy.com
-    Twitter: http://twitter.com/fortaweso_me
-    Work: http://lemonwi.se co-founder
-
-    */
+/*  Font Awesome Data-Icon Flavor
+	the iconic font designed for use with Twitter Bootstrap, now with different semantics!
+	-------------------------------------------------------
+	The full suite of pictographic icons, examples, and documentation for the 
+	original Font Awesome can be found at: http://fortawesome.github.com/Font-Awesome/
+	
+	License
+	-------------------------------------------------------
+	Version 2.0 of the Font Awesome font, CSS, and LESS files are licensed under CC BY 3.0:
+	http://creativecommons.org/licenses/by/3.0/
+	A mention of 'Font Awesome - http://fortawesome.github.com/Font-Awesome'
+	and 'Font Awesome Data-Icon Flavor - http://terracomma.github.com/Font-Awesome-Data-Icon-Flavor '
+	in human-readable source code is considered acceptable attribution (most common on the
+	web). If human readable source code is not available to the end user, a mention in an 'About' 
+	or 'Credits' screen is considered acceptable (most common in desktop or mobile software).
+	
+	Contact
+	-------------------------------------------------------
+	- Email: terracomma@gmail.com
+	- Twitter: http://twitter.com/terracomma
+	*/
+	
+	
 @font-face {
   font-family: "FontAwesome";
   src: url('../font/fontawesome-webfont.eot');
