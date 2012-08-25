@@ -17,9 +17,9 @@ The icon can now be implemented via:
 	<i data-icon="retro-camera"></i>
 
 The ability to include large icons is retained; instead of using:
-	<i class="icon-camera-retro icon-large"></i>
+	&lt;i class="icon-camera-retro icon-large"&gt;&lt;/i &gt;
 You may now use:
-	<i data-icon"camera-retro large"></i>
+	&lt;i data-icon"camera-retro large"&gt;&lt;/i &gt;
 
 ##Thanks
 Dave Gandy, for creating the original Font Awesome - http://fortawesome.github.com/Font-Awesome/
