@@ -17,7 +17,7 @@ Instead of implementing a retro camera icon via:
 ```
 The icon can now be implemented via:   
 ```
-<i data-icon="retro-camera" ></i>  
+<i data-icon="camera-retro" ></i>  
 ```
 *****
 
