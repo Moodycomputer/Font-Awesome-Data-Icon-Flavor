@@ -12,21 +12,22 @@ http://fortawesome.github.com/Font-Awesome/
 This fork of Font Awesome primarily changes the syntax of adding icons from a class based system to a system based on HTML5 data- attributes.
 
 Instead of implementing a retro camera icon via:  
-```html
-&lt;i class="icon-camera-retro"&gt;&lt;/i&gt;  
+```
+<i class="icon-camera-retro" ></i> 
 ```
 The icon can now be implemented via:   
-```html
-&lt;i data-icon="retro-camera"&gt;&lt;/i&gt;   
 ```
+<i data-icon="retro-camera" ></i>  
+```
+*****
 
 The ability to include large icons is retained; instead of using:   
-```html
-&lt;i class="icon-camera-retro icon-large"&gt; &lt;/i&gt;   
+```
+<i class="icon-camera-retro icon-large ></i>   
 ```
 You may now use:   
-```html
-&lt;i data-icon"camera-retro large"&gt; &lt;/i&gt;   
+```
+<i data-icon"camera-retro large" ></i>   
 ```
 
 ##Thanks
